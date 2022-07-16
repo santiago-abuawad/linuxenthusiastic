@@ -1,16 +1,23 @@
-### Hi there 👋
+```python
 
-<!--
-**dev-hyns/dev-hyns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+                            :::    ::: :::   ::: ::::    :::  ::::::::  
+                            :+:    :+: :+:   :+: :+:+:   :+: :+:    :+: 
+                            +:+    +:+  +:+ +:+  :+:+:+  +:+ +:+        
+                            +#++:++#++   +#++:   +#+ +:+ +#+ +#++:++#++ 
+                            +#+    +#+    +#+    +#+  +#+#+#        +#+ 
+                            #+#    #+#    #+#    #+#   #+#+# #+#    #+# 
+                            ###    ###    ###    ###    ####  ######## 
+                                                      
+                        .s5SSSs.  s.  .s5SSSSs. .s    s.  .s    s.  .s5SSSs.  
+                              SS. SS.    SSS          SS.       SS.       SS. 
+                        sS    `:; S%S    S%S    sS    S%S sS    S%S sS    S%S 
+                        SS        S%S    S%S    SSSs. S%S SS    S%S SS .sSSS  
+                        SS        S%S    S%S    SS    S%S SS    S%S SS    S%S 
+                        SS   ``:; `:;    `:;    SS    `:; SS    `:; SS    `:; 
+                        SS    ;,. ;,.    ;,.    SS    ;,. SS    ;,. SS    ;,. 
+                        `:;;;;;:' ;:'    ;:'    :;    ;:' `:;;;;;:' `:;;;;;:' 
+                                                      
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+```

@@ -9,6 +9,7 @@
  
 <p align="center"> 
 <a href="https://github.com/delincuencia" target="_blank"> <img src="https://media.discordapp.net/attachments/994766131359404082/1000968704353386506/cooltext416025008205561.png" alt="hyns-github"/></a>
+
 ```
 - Hi, I'm hyns, a subject interested in computing
 - I am a software engineering student and I like to program

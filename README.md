@@ -4,8 +4,4 @@
   </kbd>
 </p>
 
-<p align="center"> 
-  <kbd>
-<img src="https://media.discordapp.net/attachments/994766131359404082/1000967166293717072/cooltext416024677975260.png">
-  </kbd>
-</p>
+<a href="https://github.com/delincuencia" target="_blank"> <img src="https://media.discordapp.net/attachments/994766131359404082/1000967166293717072/cooltext416024677975260.png" alt="hyns-github"/></a>

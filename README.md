@@ -13,5 +13,6 @@
 ```
 - Hi, I'm hyns, a subject interested in computing
 - I am a software engineering student and I like to program
-- Today focused on pentest and bot development
+- Focused on mobile development for ios
+- As a hobby I pentest and develop bots
 ```

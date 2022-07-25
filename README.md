@@ -8,7 +8,7 @@
 </p>
  
 <p align="center"> 
-<a href="https://github.com/delincuencia" target="_blank"> <img src="https://media.discordapp.net/attachments/994766131359404082/1000968704353386506/cooltext416025008205561.png" alt="hyns-github"/></a>
+<a href="https://github.com/delincuencia" target="_blank"> <img src="https://media.discordapp.net/attachments/994766131359404082/1000979221881040976/cooltext416027100729415.png" alt="hyns-github"/></a>
 
 ```
 About me

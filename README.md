@@ -23,5 +23,6 @@ Tools
 - VisualStudioCode
 - KaliLinux
 - Replit
-Any work proposal or doubt send md discord hyns#1941 or instagram @hyns.btc
+
+If you have any questions, queries or job proposals, you can contact me at discord hyns#1941 or instagram @hyns.btc
 ```

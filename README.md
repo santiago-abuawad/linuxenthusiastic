@@ -15,3 +15,9 @@ About me
 - Computer engineering student, focused on programming and developing ios applications
 - As a hobby I like to perform pentests on different pages in an ethical way and develop bots that automate tasks
 ```
+```
+Skills
+- Python
+- Swift
+- JavaScript
+```

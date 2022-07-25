@@ -11,8 +11,8 @@
 <a href="https://github.com/delincuencia" target="_blank"> <img src="https://media.discordapp.net/attachments/994766131359404082/1000968704353386506/cooltext416025008205561.png" alt="hyns-github"/></a>
 
 ```
-- Hi, I'm hyns, a subject interested in computing
-- I am a software engineering student and I like to program
-- Focused on mobile development for ios
-- As a hobby I pentest and develop bots
+About me
+- Computer engineering student, focused on programming and developing ios applications
+- As a hobby I like to perform pentests on different pages in an ethical way and develop bots that automate tasks
+- 
 ```

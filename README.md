@@ -3,12 +3,9 @@
   About me
   </a>
 </h1> 
-
-🇺🇸 ```hola soy santiago
-
-```
-🇪🇸```hola soy santiaog
-
+🇺🇸
+```python
+hola
 ```
 
 

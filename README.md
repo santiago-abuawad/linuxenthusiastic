@@ -4,6 +4,6 @@
       <a href="https://discord.com/users/708739244553797643">
         <img src="https://lanyard-profile-readme.vercel.app/api/708739244553797643?animated=true" align="left" height="205" align="left" height="205">
       <a href="https://steamcommunity.com/id/makemoneywasnoteasy/">
-        <img src="https://steam-stat.vercel.app/api?profileName=makemoneywasnoteasy" align="left" height="205" align="left" height="205">   
+        <img src="https://steam-stat.vercel.app/api?profileName=makemoneywasnoteasy" align="left" height="205" align="left" height="105">   
   </a>
 </div>

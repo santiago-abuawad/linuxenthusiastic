@@ -1,9 +1,4 @@
 
-<h1 align="center">
-  about
-  </a>
-</h1> 
-
 ```
 🇺🇸 I am a software engineering student coming soon to the catolica santa cruz bolivia university, i am focused on machine learning and data science as well as knowledge in python and swift for mobile ios development and ai development, basic knowledge in blockchain and others related to the crypto world, I am quick to learn and I have a good study method, I also have several udemy certifications
 

@@ -2,7 +2,6 @@
 
 <div align="center">
   
-    </a>
 </div>
 
 <div align="left">

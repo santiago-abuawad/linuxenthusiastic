@@ -9,7 +9,7 @@
 
 🇪🇸 Soy estudiante de ingeniería de software próximamente a la universidad católica santa cruz bolivia, estoy enfocado en aprendizaje automático y ciencia de datos, así como conocimientos en python y swift para desarrollo móvil ios y desarrollo ai, conocimientos básicos en blockchain y otros relacionados con el crypto world, soy rápido para aprender y tengo un buen método de estudio, también tengo varias certificaciones udemy
 ```
-
+### Social media
 <div align="left">
   <a href="https://open.spotify.com/user/l4fopfuqp9j40cty3twf57hbo?si=75637cc9863a4edb">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=l4fopfuqp9j40cty3twf57hbo&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile" align="left" height="190">

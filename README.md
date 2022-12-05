@@ -1,10 +1,6 @@
-<h1 align="center">
-  about me
-  </a>
-</h1>
 
 <h1 align="center">
-  connections
+  About me
   </a>
 </h1>
 

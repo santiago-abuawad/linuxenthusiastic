@@ -2,7 +2,7 @@
 
 <h1 align="center">
   Social
-  <a>
+  </a>
 </h1>
 
 <div align="left">

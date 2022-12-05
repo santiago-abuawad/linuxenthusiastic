@@ -15,7 +15,7 @@
         <img src="https://lanyard-profile-readme.vercel.app/api/708739244553797643?animated=true" align="left" height="150" align="left" height="205">
       </a>
 </div>
-    <div align="righ">
+    <div align="right">
       <a href="https://steamcommunity.com/id/makemoneywasnoteasy/">
         <img src="https://steam-stat.vercel.app/api?profileName=makemoneywasnoteasy" align="left" height="205" align="left" height="105">   
   </a>

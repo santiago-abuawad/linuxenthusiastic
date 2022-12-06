@@ -11,7 +11,6 @@
  <h6> Soy estudiante de ingeniería de software próximamente a la universidad católica santa cruz bolivia, estoy enfocado en aprendizaje automático y ciencia de datos, así como conocimientos en python y swift para desarrollo móvil ios y desarrollo de apis etc..., conocimientos básicos en blockchain y otros relacionados con el crypto world, soy rápido para aprender y tengo un buen método de estudio, también tengo varias certificaciones udemy</h6>
 </div>
 
-    <p align="center">
   <a href="https://solo.to/santiagoabol">
     <p align="center">
     <img src="https://www.nicepng.com/png/detail/290-2900194_contact-me-03-01-contact-me-image-png.png" align="center" width="100">

@@ -16,11 +16,11 @@
 </div>
     <div align="center">
       <a href="https://discord.com/users/708739244553797643">
-        <img src="https://lanyard-profile-readme.vercel.app/api/708739244553797643?animated=true" align="left" width="230" height="160">
+        <img src="https://lanyard-profile-readme.vercel.app/api/708739244553797643?animated=true" align="left" width="230" height="200">
       </a>
 </div>
     <div align="right">
       <a href="https://steamcommunity.com/id/makemoneywasnoteasy/">
-        <img src="https://steam-stat.vercel.app/api?profileName=makemoneywasnoteasy" align="left" width="250" height="190">   
+        <img src="https://steam-stat.vercel.app/api?profileName=makemoneywasnoteasy" align="left" width="250" height="200">   
   </a>
 </div>

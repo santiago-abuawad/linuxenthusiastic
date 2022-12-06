@@ -6,4 +6,5 @@
       
 <div align="center">
  <h1>About me</h1>
+  <h1>Contact</h1>
 </div>

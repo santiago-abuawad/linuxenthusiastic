@@ -21,6 +21,6 @@
 </div>
     <div align="right">
       <a href="https://steamcommunity.com/id/makemoneywasnoteasy/">
-        <img src="https://steam-stat.vercel.app/api?profileName=makemoneywasnoteasy" align="left" width="300" height="290">   
+        <img src="https://steam-stat.vercel.app/api?profileName=makemoneywasnoteasy" align="left" width="290" height="200">   
   </a>
 </div>
